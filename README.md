@@ -1,2 +1,2 @@
-# README von repository sample
+# README von repository 'sample'
 Some text
