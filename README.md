@@ -1,2 +1,2 @@
-# sample
-Sample Text
+# README von repository sample
+Some text
